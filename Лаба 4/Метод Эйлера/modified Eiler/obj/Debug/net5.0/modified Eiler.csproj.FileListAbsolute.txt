@@ -1,0 +1,34 @@
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\modified Eiler.exe
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\modified Eiler.deps.json
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\modified Eiler.runtimeconfig.json
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\modified Eiler.runtimeconfig.dev.json
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\modified Eiler.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\ref\modified Eiler.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\modified Eiler.pdb
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\obj\Debug\net5.0\modified Eiler.csproj.AssemblyReference.cache
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\obj\Debug\net5.0\modified Eiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\obj\Debug\net5.0\modified Eiler.AssemblyInfoInputs.cache
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\obj\Debug\net5.0\modified Eiler.AssemblyInfo.cs
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\obj\Debug\net5.0\modified Eiler.csproj.CoreCompileInputs.cache
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\obj\Debug\net5.0\modified Eiler.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\obj\Debug\net5.0\ref\modified Eiler.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\obj\Debug\net5.0\modified Eiler.pdb
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\obj\Debug\net5.0\modified Eiler.genruntimeconfig.cache
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\ZedGraph.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\ZedGraph.Web.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\ZedGraph.xml
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\ZedGraph.Web.xml
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\de\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\es\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\fr\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\hu\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\it\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\ja\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\pt\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\ru\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\sk\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\sv\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\tr\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\zh-cn\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\bin\Debug\net5.0\zh-tw\ZedGraph.resources.dll
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\Лаба 4\Метод Эйлера\modified Eiler\obj\Debug\net5.0\modified Eiler.csproj.CopyComplete

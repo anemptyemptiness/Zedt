@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>modified_Eiler</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ZedGraph">
+      <HintPath>..\..\..\..\..\..\Downloads\zedgraph_dll_v515\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph.Web">
+      <HintPath>..\..\..\..\..\..\Downloads\zedgraph_dll_v515\zedgraph_dll_v515\zedgraph_dll_v5.1.5\ZedGraph.Web.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
