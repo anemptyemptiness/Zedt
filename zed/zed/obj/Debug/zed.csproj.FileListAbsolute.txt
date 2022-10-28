@@ -1,0 +1,11 @@
+C:\Users\dneru\Downloads\zedgraph_dll_v515\zed.exe.config
+C:\Users\dneru\Downloads\zedgraph_dll_v515\zed.exe
+C:\Users\dneru\Downloads\zedgraph_dll_v515\zed.pdb
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\zed\zed\obj\Debug\zed.csproj.AssemblyReference.cache
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\zed\zed\obj\Debug\zed.Form1.resources
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\zed\zed\obj\Debug\zed.Properties.Resources.resources
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\zed\zed\obj\Debug\zed.csproj.GenerateResource.cache
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\zed\zed\obj\Debug\zed.csproj.CoreCompileInputs.cache
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\zed\zed\obj\Debug\zed.csproj.CopyComplete
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\zed\zed\obj\Debug\zed.exe
+C:\Users\dneru\Desktop\Учеба\Лабы АВМ\zed\zed\obj\Debug\zed.pdb
